@@ -1,4 +1,5 @@
-# Project 3
+# HangMan Projet - This project was a in class project done at Christopher Newport University 
+
 
 For your third programming assignment, you will modify your Hangman
  program to read words from a file, use an ArrayList instead of an
